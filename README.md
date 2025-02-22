@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ### :zap: Actividad Reciente KH
-<!--START_SECTION:activity -->
+<!--RECENT_SECTION:start-->
 
-<!--END_SECTION:activity -->
+<!--RECENT_SECTION:last_update-->
